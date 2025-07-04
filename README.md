@@ -1,4 +1,4 @@
-# Repository containing polyfills for various built-in JavaScript methods
+# Repository containing polyfills for following built-in JavaScript methods
 
 - Array.map()
 - Array.filter()
