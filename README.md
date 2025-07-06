@@ -4,3 +4,6 @@
 - Array.filter()
 - Array.reduce()
 - Array.concat()
+- Array.call()
+- Array.apply()
+- Array.bind()
