@@ -7,3 +7,4 @@
 - Array.call()
 - Array.apply()
 - Array.bind()
+- Array.at()
