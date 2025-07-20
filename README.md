@@ -8,3 +8,4 @@
 - Array.apply()
 - Array.bind()
 - Array.at()
+- Array.forEach()
