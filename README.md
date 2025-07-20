@@ -9,3 +9,4 @@
 - Array.bind()
 - Array.at()
 - Array.forEach()
+- Promise.all()
