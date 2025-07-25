@@ -10,3 +10,4 @@
 - Array.at()
 - Array.forEach()
 - Promise.all()
+- Promise.race()
