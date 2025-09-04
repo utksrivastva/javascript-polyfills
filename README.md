@@ -12,6 +12,7 @@
 - Array.reverse()
 - Array.forEach()
 - Array.flat()
+- Array.join()
 - Promise.all()
 - Promise.race()
 - Promise.any()
