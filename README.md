@@ -8,6 +8,7 @@
 - Array.apply()
 - Array.bind()
 - Array.at()
+- Array.includes()
 - Array.forEach()
 - Promise.all()
 - Promise.race()
