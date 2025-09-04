@@ -13,3 +13,4 @@
 - Promise.all()
 - Promise.race()
 - Promise.any()
+- Memoize
