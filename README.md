@@ -9,6 +9,7 @@
 - Array.bind()
 - Array.at()
 - Array.includes()
+- Array.reverse()
 - Array.forEach()
 - Promise.all()
 - Promise.race()
