@@ -11,6 +11,7 @@
 - Array.includes()
 - Array.reverse()
 - Array.forEach()
+- Array.flat()
 - Promise.all()
 - Promise.race()
 - Promise.any()
