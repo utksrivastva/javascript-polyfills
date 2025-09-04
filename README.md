@@ -14,3 +14,4 @@
 - Promise.race()
 - Promise.any()
 - Memoize
+- Throttle
