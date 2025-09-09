@@ -18,4 +18,3 @@
 - Promise.any()
 - Memoize
 - Throttle
-- Debounce
